@@ -1,7 +1,9 @@
 # boston-housing-regression
-Overview
+
+## Overview
 This repository contains an exploration of regression techniques applied to the classic Boston Housing dataset. The project demonstrates the implementation and comparison of linear, multiple, and polynomial regression models to predict house prices.
-Dataset
+
+## Dataset
 The Boston Housing dataset is a well-known dataset in machine learning that contains information about various features of houses in Boston and their prices. The dataset includes 506 samples with 13 feature variables such as:
 - CRIM: Crime rate
 - RM: Average number of rooms
@@ -25,30 +27,24 @@ boston-housing-regression/
 ├── README.md
 └── requirements.txt
 
-Techniques Implemented
+## Techniques Implemented
 
-Simple Linear Regression
+Simple Linear Regression:
+- Implementation of a basic linear model using a single feature
+- Visualization of the regression line
+- Model evaluation and interpretation
 
-Implementation of a basic linear model using a single feature
-Visualization of the regression line
-Model evaluation and interpretation
+Multiple Linear Regression:
+- Utilizing all relevant features of the dataset
+- Feature selection techniques
+- Analysis of feature importance
 
+Polynomial Regression:
+- Implementation of polynomial features
+- Model complexity vs. performance analysis
+- Overfitting detection and prevention
 
-Multiple Linear Regression
-
-Utilizing all relevant features of the dataset
-Feature selection techniques
-Analysis of feature importance
-
-
-Polynomial Regression
-
-Implementation of polynomial features
-Model complexity vs. performance analysis
-Overfitting detection and prevention
-
-Requirements
-
+## Requirements:
 Python 3.8+
 pandas
 numpy
