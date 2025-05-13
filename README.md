@@ -12,21 +12,6 @@ The Boston Housing dataset is a well-known dataset in machine learning that cont
 - LSTAT: Percentage of lower status population
 The target variable is MEDV: Median value of owner-occupied homes in $1000s.
 
-boston-housing-regression/
-├── 01_linear_regression/
-│   └── linear_regression.ipynb
-├── 02_multiple_regression/
-│   └── multiple_regression.ipynb
-├── 03_polynomial_regression/
-│   └── polynomial_regression.ipynb
-├── data/
-│   └── boston.csv (oppure caricato da sklearn)
-├── images/
-│   └── plot_linear.png
-│   └── plot_polynomial.png
-├── README.md
-└── requirements.txt
-
 ## Techniques Implemented
 
 Simple Linear Regression:
