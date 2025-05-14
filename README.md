@@ -17,7 +17,6 @@ The target variable is MEDV: Median value of owner-occupied homes in $1000s.
 Simple Linear Regression:
 - Implementation of a basic linear model using a single feature
 - Visualization of the regression line
-- Model evaluation and interpretation
 
 Multiple Linear Regression:
 - Utilizing all relevant features of the dataset
