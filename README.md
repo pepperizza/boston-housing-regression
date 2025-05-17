@@ -37,5 +37,5 @@ matplotlib
 seaborn
 jupyter
 
-
+---
 This project was created as part of my learning journey in data science and machine learning.
